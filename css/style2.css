@@ -4,8 +4,8 @@ body {
 #img1{
     height: 60PX;
     width: 60PX;
-    margin-left: 10%;
-    margin-top: 2%;
+    margin-left: 1%;
+    margin-top: 20%;
     position: fixed;
 }
 
@@ -20,12 +20,12 @@ body {
     height: 150PX;
     width: 150PX;
     margin:auto;
-    margin-left: 70%;
+    margin-left: 90%;
 }
 
 #img4{
-    height: 150PX;
-    width: 150PX;
+    height: 15PX;
+    width: 15PX;
     margin:auto;
     margin-left: 20%;
 }
