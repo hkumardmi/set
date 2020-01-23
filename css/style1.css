@@ -1,0 +1,38 @@
+body {
+    background-color: #e0efe8;
+}
+#img1{
+    height: 60PX;
+    width: 60PX;
+    margin-left: 10%;
+    margin-top: 2%;
+    position: fixed;
+}
+
+#img2{
+    height: 250PX;
+    width: 750PX;
+    margin:auto;
+    margin-left: 30%;
+}
+
+#img3{
+    height: 150PX;
+    width: 150PX;
+    margin:auto;
+    margin-left: 70%;
+}
+
+#img4{
+    height: 150PX;
+    width: 150PX;
+    margin:auto;
+    margin-left: 20%;
+}
+
+h1 {
+    margin-left: 40%;
+    font-family: 'Sacramento', cursive;
+    color: #94d3ac;
+  
+}
