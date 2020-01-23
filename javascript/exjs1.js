@@ -13,7 +13,7 @@
         var x = prompt('Enter any under 3 ');
         switch(x) {
                 case 1:
-                    day = "Sunday";
+                    day = "monday";
                     break;
                 case (2):
                     day = "Monday";
